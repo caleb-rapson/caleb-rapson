@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)]
+![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <h3 align="center">An aspiring full stack junior developer</h3>
 <img align="right" alt="Coding" width="400" srs="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"
